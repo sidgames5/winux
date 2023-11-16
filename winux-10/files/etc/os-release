@@ -1,0 +1,5 @@
+NAME="Windows"
+VERSION="10.0"
+EDITION="Home"
+ID=windows
+ID_LIKE=arch
